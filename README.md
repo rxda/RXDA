@@ -1,6 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Rust, using Golang 
-🔭 I’m currently working on environment protection
+🌱 Nixos is the best distro!
 <!--
 **RXDA/RXDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
